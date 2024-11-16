@@ -50,8 +50,16 @@ The app will be available at http://localhost:3000.
 2.The browser stores task data locally using localStorage.
 3.The application assumes that modern JavaScript and CSS features are supported by the user's browser.
 
-##Screenshots
 
+##Screenshots
+### Homepage
+![Homepage](./screenshots/localhost_5173_%20(1).png)
+
+### Add a Task
+![Add Task](./screenshots/localhost_5173_%20(2).png)
+
+### Delete a Task
+![Delete Task](./screenshots/localhost_5173_%20(4).png)
 ###Author
 Vanshika Bajaj
 
